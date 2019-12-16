@@ -1,7 +1,7 @@
 #!/usr/bin/python
-# A quick script that outputs the necessary pypi package information for
-# releng bugs. The outputs can be redirected to a text file and then given
-# to releng for upload to Mozilla's internal pypi mirror
+# A quick script that takes as input a requirements.txt file and outputs the
+# necessary pypi package information forreleng bugs. The outputs can be
+# redirected to a text file and then given# to releng for upload to Mozilla's internal pypi mirror
 
 
 import sys
